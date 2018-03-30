@@ -98,7 +98,7 @@ https://www.secpulse.com/archives/category/exclusive/ctf-writeup
 - i春秋Writeup
 https://www.ichunqiu.com/writeup
 
-- 安全课
+- 安全客（注意ctf通关攻略栏目）
 https://www.anquanke.com
 
 - ctf吧
@@ -112,7 +112,7 @@ http://www.cnblogs.com/iamstudy/category/890265.html
 
 ### 2014
 
-- SCTF（三叶草CTF） Write-Up
+- SCTF（四叶草CTF） Write-Up
 http://www.freebuf.com/articles/web/54176.html
 
 - SSCTF逆向部分
@@ -178,34 +178,32 @@ http://www.freebuf.com/articles/rookie/150129.html
 - ctf--问鼎杯writeup
 https://zhuanlan.zhihu.com/p/29408086
 
-### 2018
+### 2018 强网杯专辑
 
-- 第二届强网杯中应用的一种反作弊新思路 i春秋
-https://bbs.ichunqiu.com/thread-36705-1-1.html?from=groupmessage&isappinstalled=0 
-
-- 2018强网杯 web
+- 2018强网杯 web 酷辣虫 Beta
 http://www.colabug.com/2546761.html
 
-- 强网杯部分writeup
+- 强网杯部分writeup 合天智汇
 https://www.cnblogs.com/Hg-Yyq/p/8641992.html
 
-- 强网杯部分Crypto题解
+- 强网杯部分Crypto题解 csdn博客
 https://blog.csdn.net/qq_38412357/article/details/79696263
 
 - writeup | 强网杯—Share your mind
 https://mp.weixin.qq.com/s?src=11&timestamp=1522118153&ver=779&signature=xZRUCNbCq5CO5SakLtkzSfrqrxDOy7w9WBZQYhKW8KGD9R0n6XrDITcRkJ2H*L7sOURXwUMkXuWvEjTd4cGbetZFFDaLLHOhwXXzdAPC*ExgnKvR1xOPLrKgAzO*B01z
 
-- 第二届强网杯 web方向部分writeup
-https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247484832&idx=1&sn=852b5f599e2f81cad0450a5f8a933985&chksm=e89e2d78dfe9a46e32d5a79640dc8d112594fe5ae424dba32512b37ac9a4f47a17bdecd8f3aa&mpshare=1&scene=1&srcid=0330QPkNaiuks2SSLQvf6RAz
-
 - web方向部分writeup chamd5
 https://mp.weixin.qq.com/s/zoOA278csfdZJPzg8rf5iQ
 
-- 强网杯”部分题目Writeup 合天智汇
-https://mp.weixin.qq.com/s/qdjYYdxu7WTv6o8Ru9pyjQ  
+- 强网杯出题思路-solid_core-HijackPrctl 看雪学院
+https://mp.weixin.qq.com/s/_ciWSeuR2BenJkJ07jaJfg
 
 - writeup | 强网杯web题目四道 安恒网络空间安全讲武堂
 https://mp.weixin.qq.com/s/KPE-EjU5FJ5ZD2tvDZbX4A
+
+- 第二届强网杯中应用的一种反作弊新思路 i春秋
+https://bbs.ichunqiu.com/thread-36705-1-1.html?from=groupmessage&isappinstalled=0
+
 
 ## PWN
 - Software-Security-Learning
