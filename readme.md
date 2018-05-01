@@ -15,6 +15,9 @@ https://www.ichunqiu.com/battalion
 - 实验吧
 http://www.shiyanbar.com/ctf/practice
 
+- wechall平台
+http://www.wechall.net/
+
 - pwnhub
 https://pwnhub.cn/index
 
@@ -35,9 +38,6 @@ https://www.hackthissite.org/
 
 - hack 101
 https://www.hacker101.com/
-
-- wechall平台
-http://www.wechall.net/
 
 - WeBug靶场
 https://www.webug.org/
