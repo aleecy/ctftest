@@ -225,6 +225,9 @@ https://mp.weixin.qq.com/s/qdjYYdxu7WTv6o8Ru9pyjQ
 - writeup | 强网杯web题目四道 安恒网络空间安全讲武堂
 https://mp.weixin.qq.com/s/KPE-EjU5FJ5ZD2tvDZbX4A
 
+- 2018/10安恒月赛
+https://github.com/luobuming/luobuming.github.io/blob/e5ac6b3486ec44681dd7ec9a7c57e2568c83cee1/_posts/2018-10-27-201810%E5%AE%89%E6%81%92%E6%9D%AF.md
+
 ## PWN
 - Software-Security-Learning
 https://github.com/CHYbeta/Software-Security-Learning/blob/master/README.md
